@@ -1,7 +1,8 @@
 # GOTO-Simulator
 
-Interaktiver Simulator für **GOTO-Programme** (theoretische Informatik, Typ-2-Grammatik nach Vossen/Witt bzw. Asteroth/Baier).
-Parst, führt aus und traced GOTO-Quelltext Schritt für Schritt im Browser.
+Simulator für **GOTO-Programme** (theoretische Informatik, Typ-2-Grammatik nach Vossen/Witt bzw. Asteroth/Baier).
+Parst, führt aus und traced GOTO-Code Schritt für Schritt im Browser.
+Das Projekt ist mein Coping Mechnasim für theoretische Informatik
 
 ## Setup
 
